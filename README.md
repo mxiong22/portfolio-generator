@@ -16,3 +16,7 @@ This application was created by using JavaScript and node.js.
 - Answer all the questions 
 - Open generatorReadMe.md in preview 
 
+## Feautures 
+
+- JavaScript
+- Node
